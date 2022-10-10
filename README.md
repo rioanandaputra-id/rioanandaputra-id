@@ -8,4 +8,7 @@
     <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=rioanandaputra-id&theme=react-dark&bg_color=000000&color=FFFFFF"/>
   </a>
 </p>
-  [![](https://visitcount.itsvg.in/api?id=rioanandaputra-id&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+
+## Socials
+[![](https://visitcount.itsvg.in/api?id=rioanandaputra-id&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
